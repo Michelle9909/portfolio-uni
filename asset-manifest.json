@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "https://michelle9909.github.io/portfolio-uni/static/css/main.f2054551.css",
-    "main.js": "https://michelle9909.github.io/portfolio-uni/static/js/main.902f6c95.js",
+    "main.css": "https://michelle9909.github.io/portfolio-uni/static/css/main.ddd14cb8.css",
+    "main.js": "https://michelle9909.github.io/portfolio-uni/static/js/main.d95625ac.js",
     "static/media/logo.svg": "https://michelle9909.github.io/portfolio-uni/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "https://michelle9909.github.io/portfolio-uni/index.html",
-    "main.f2054551.css.map": "https://michelle9909.github.io/portfolio-uni/static/css/main.f2054551.css.map",
-    "main.902f6c95.js.map": "https://michelle9909.github.io/portfolio-uni/static/js/main.902f6c95.js.map"
+    "main.ddd14cb8.css.map": "https://michelle9909.github.io/portfolio-uni/static/css/main.ddd14cb8.css.map",
+    "main.d95625ac.js.map": "https://michelle9909.github.io/portfolio-uni/static/js/main.d95625ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2054551.css",
-    "static/js/main.902f6c95.js"
+    "static/css/main.ddd14cb8.css",
+    "static/js/main.d95625ac.js"
   ]
 }
