@@ -12,9 +12,9 @@ function Navbar() {
             <nav>
                 <ul className="navList">
                     <li class="active"></li>
-                    <li class="item"><a href="/resume">Resume</a></li>
-                    <li class="item"><a href="/coverletter">Cover Letter</a></li>
-                    <li class="item"><a href="/reflections">Reflections</a></li>
+                    <li class="item"><a href="portfolio-uni/resume">Resume</a></li>
+                    <li class="item"><a href="portfolio-uni/coverletter">Cover Letter</a></li>
+                    <li class="item"><a href="portfolio-uni/reflections">Reflections</a></li>
                 </ul>
             </nav>
             </header>
