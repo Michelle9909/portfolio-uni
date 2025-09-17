@@ -5,13 +5,16 @@ function Navbar() {
     return (
         <div class="container">
             <header className="navbar">
-            <img src={navbarImage} alt="Company Logo" className="navbarImage" />
+                <a href="/" className="brand">
+                    <img src={navbarImage} className="navbarImage" />
+                    <span className="name">Michelle Chen</span>
+                </a>
             <nav>
                 <ul className="navList">
                     <li class="active"></li>
-                    <li class="item"><a href="/">Resume</a></li>
-                    <li class="item"><a href="/about">Cover Letter</a></li>
-                    <li class="item"><a href="/services">Reflections</a></li>
+                    <li class="item"><a href="/resume">Resume</a></li>
+                    <li class="item"><a href="/coverletter">Cover Letter</a></li>
+                    <li class="item"><a href="/reflections">Reflections</a></li>
                 </ul>
             </nav>
             </header>

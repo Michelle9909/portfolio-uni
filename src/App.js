@@ -1,24 +1,45 @@
-import logo from './logo.svg';
-import './App.css';
-import Header from './components/navbar';
+import logo from "./logo.svg";
+import "./App.css";
+import Header from "./components/navbar";
 
 function App() {
   return (
     <div className="App">
       <Header />
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <div className="logo-row">
+          <img src={logo} className="App-logo" alt="logo" />
+          <div className="text-block">
+            <p>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla
+              non cumque nobis ab illo consequatur unde accusantium excepturi
+              deleniti culpa eos mollitia, quisquam, tenetur maiores rerum
+              reiciendis iusto in eaque voluptatibus maxime quo a facilis. Vel
+              eum maxime quos numquam dicta quas. Quia numquam cumque dolore
+              nulla pariatur quisquam fugiat labore placeat autem cupiditate,
+              voluptates omnis! Quasi soluta perspiciatis excepturi sunt qui
+              atque sint dolorum corporis totam recusandae labore sapiente vitae
+              facilis minima eveniet amet rerum vel ducimus quae non neque
+              nesciunt voluptatum, porro a. Commodi, repellat rem aspernatur
+              voluptas quis exercitationem amet quibusdam quas tempora et?
+              Cupiditate, voluptatem nihil.
+            </p>
+            <p>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla
+              non cumque nobis ab illo consequatur unde accusantium excepturi
+              deleniti culpa eos mollitia, quisquam, tenetur maiores rerum
+              reiciendis iusto in eaque voluptatibus maxime quo a facilis. Vel
+              eum maxime quos numquam dicta quas. Quia numquam cumque dolore
+              nulla pariatur quisquam fugiat labore placeat autem cupiditate,
+              voluptates omnis! Quasi soluta perspiciatis excepturi sunt qui
+              atque sint dolorum corporis totam recusandae labore sapiente vitae
+              facilis minima eveniet amet rerum vel ducimus quae non neque
+              nesciunt voluptatum, porro a. Commodi, repellat rem aspernatur
+              voluptas quis exercitationem amet quibusdam quas tempora et?
+              Cupiditate, voluptatem nihil.
+            </p>
+          </div>
+        </div>
       </header>
     </div>
   );
