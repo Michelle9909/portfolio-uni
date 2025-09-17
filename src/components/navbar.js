@@ -1,20 +1,21 @@
 import './navbar.css'
 import navbarImage from './me.png'
+import { Link } from "react-router-dom";
 
 function Navbar() {
     return (
-        <div class="container">
+        <div className="container">
             <header className="navbar">
-                <a href="/" className="brand">
+                <Link to="/" className="brand">
                     <img src={navbarImage} className="navbarImage" />
                     <span className="name">Michelle Chen</span>
-                </a>
+                </Link>
             <nav>
                 <ul className="navList">
-                    <li class="active"></li>
-                    <li class="item"><a href="portfolio-uni/resume">Resume</a></li>
-                    <li class="item"><a href="portfolio-uni/coverletter">Cover Letter</a></li>
-                    <li class="item"><a href="portfolio-uni/reflections">Reflections</a></li>
+                    <li className="active"></li>
+                    <li className="item"><Link to="/resume">Resume</Link></li>
+                    <li className="item"><Link to="/coverletter">Cover Letter</Link></li>
+                    <li className="item"><Link to="/reflections">Reflections</Link></li>
                 </ul>
             </nav>
             </header>
