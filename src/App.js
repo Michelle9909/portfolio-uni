@@ -17,34 +17,29 @@ function App() {
                 <img src={logo} className="App-logo" alt="logo" />
                 <div className="text-block">
                   <p>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Nulla non cumque nobis ab illo consequatur unde accusantium
-                    excepturi deleniti culpa eos mollitia, quisquam, tenetur
-                    maiores rerum reiciendis iusto in eaque voluptatibus maxime
-                    quo a facilis. Vel eum maxime quos numquam dicta quas. Quia
-                    numquam cumque dolore nulla pariatur quisquam fugiat labore
-                    placeat autem cupiditate, voluptates omnis! Quasi soluta
-                    perspiciatis excepturi sunt qui atque sint dolorum corporis
-                    totam recusandae labore sapiente vitae facilis minima
-                    eveniet amet rerum vel ducimus quae non neque nesciunt
-                    voluptatum, porro a. Commodi, repellat rem aspernatur
-                    voluptas quis exercitationem amet quibusdam quas tempora et?
-                    Cupiditate, voluptatem nihil.
+                    I am a passionate and motivated Senior Software Engineer who
+                    has 5 years professional experience within the financial
+                    technology industry. I have worked with a wide range of
+                    technologies and systems, some of which include: distributed
+                    systems, RESTful API’s, microservice architecture, event
+                    driven architecture, database modelling, batch processing
+                    and many more. I have a deep and extensive knowledge of
+                    product driven design and a strong record of delivering
+                    impactful solutions within the financial technology sector.
+                    I engineer smart and simple software solutions for products
+                    that aim to solve complex problems within the industry.
                   </p>
                   <p>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Nulla non cumque nobis ab illo consequatur unde accusantium
-                    excepturi deleniti culpa eos mollitia, quisquam, tenetur
-                    maiores rerum reiciendis iusto in eaque voluptatibus maxime
-                    quo a facilis. Vel eum maxime quos numquam dicta quas. Quia
-                    numquam cumque dolore nulla pariatur quisquam fugiat labore
-                    placeat autem cupiditate, voluptates omnis! Quasi soluta
-                    perspiciatis excepturi sunt qui atque sint dolorum corporis
-                    totam recusandae labore sapiente vitae facilis minima
-                    eveniet amet rerum vel ducimus quae non neque nesciunt
-                    voluptatum, porro a. Commodi, repellat rem aspernatur
-                    voluptas quis exercitationem amet quibusdam quas tempora et?
-                    Cupiditate, voluptatem nihil.
+                    In terms of career progression, I have recently taken an
+                    interest in leveraging AI and ML within my skillset in order
+                    to produce more robust and data driven engineering solution
+                    design. I wish to extend my knowledge within that area into
+                    a product space outside of the financial sector. I am keen
+                    to understand more problems that exist in the technology
+                    sector to build upon my problem solving capacity. I also
+                    enjoy game design and development in my personal time and
+                    would also be interested in exploring that space
+                    professionally.
                   </p>
                 </div>
               </div>
