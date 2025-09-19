@@ -2,6 +2,8 @@ import logo from "./logo.svg";
 import "./App.css";
 import Header from "./components/navbar";
 import Resume from "./components/resume";
+import Reflections from "./components/reflections";
+import Coverletter from "./components/coverletter";
 import { Routes, Route } from "react-router-dom";
 
 function App() {
@@ -47,8 +49,8 @@ function App() {
           }
         />
         <Route path="/resume" element={<Resume />} />
-        {/* <Route path="/coverletter" element={<CoverLetter />} />
-        <Route path="/reflections" element={<Reflections />} /> */}
+        <Route path="/coverletter" element={<Coverletter />} />
+        <Route path="/reflections" element={<Reflections />} />
       </Routes>
     </div>
   );

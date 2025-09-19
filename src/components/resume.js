@@ -6,10 +6,10 @@ const Resume = () => {
   return (
     <div>
       <iframe
-        src="/resume.pdf"
+        src="/portfolio-uni/resume.pdf"
         title="Resume PDF Viewer" // unique descriptive title
-        width="600"
-        height="400"
+        width="100%"
+        height="100%"
       ></iframe>
     </div>
   );
