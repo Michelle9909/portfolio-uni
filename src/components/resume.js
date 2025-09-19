@@ -4,12 +4,11 @@
 
 const Resume = () => {
   return (
-    <div>
+    <div style={{ width: '100%', height: '100vh', margin: 0, padding: 0 }}>
       <iframe
         src="/portfolio-uni/resume.pdf"
-        title="Resume PDF Viewer" // unique descriptive title
-        width="100%"
-        height="100%"
+        title="Resume PDF Viewer"
+        style={{ width: '100%', height: '100%', border: 'none' }}
       ></iframe>
     </div>
   );
